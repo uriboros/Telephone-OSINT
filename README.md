@@ -21,7 +21,7 @@
   <p>Search tool that helps people find specific information across many websites, search engines, and data collectors</p>
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
   <p>Hunt down social media accounts by username, email or phone across social networks.</p>
- <li><a href="https://espysys.com/osint-tools-and-api/">Epsy</a></li>
+ <li><a href="https://espysys.com/irbis-api/">Epsy</a></li>
   <p>Offers a free trial, OSINT Search Tools and API’s</p>
  <li><a href="https://haveibeenzuckered.com/">Have I Been Zuckered</a></li> 
   <p>Check if your telephone number is present within the Facebook data breach.</p>
